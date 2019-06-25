@@ -4,10 +4,10 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.aks</groupId>
-	<artifactId>jenkins-mule-integration</artifactId>
+	<artifactId>jenkin-mule-integration</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule</packaging>
-	<name>Mule jenkins-mule-demo Application</name>
+	<name>Mule jenkin-mule-demo Application</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
